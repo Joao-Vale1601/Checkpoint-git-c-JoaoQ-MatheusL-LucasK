@@ -1,15 +1,7 @@
 #include <studio.h>
 
 int main ()(
-    print ("lucas klein");
+    print ("lucas klein, MAtheus Dagel");
 
     return 0;
 )
-
-#include <stdio.h>
-int main(){
-    printf("MAtheus Dagel");
-
-    return 0;
-
-}
